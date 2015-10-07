@@ -31,5 +31,6 @@
   },
   "license": "MIT",
   "main": "index.js"
-  ,"foo": "bar"
+  ,"foo": "bar",
+  "monkey": "grapes"
 }
