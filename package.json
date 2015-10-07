@@ -33,4 +33,5 @@
   "main": "index.js"
   ,"foo": "bar",
   "monkey": "grapes"
+  ,"hell" : "is cold"
 }
